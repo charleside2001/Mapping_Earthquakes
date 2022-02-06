@@ -1,5 +1,5 @@
 # Overview of Earthquake Mapping Project
-This project uses `tectonic plate and major earthquake` LineString data, `html` and `geoJSON() layers` customization  to identify earthquake data in relation to the tectonic plates’ location on the earth to show all the earthquakes with a magnitude greater than 4.5
+This project uses `tectonic plate` and `major earthquake` LineString data, `html` and `geoJSON() layers` customization  to identify earthquake data in relation to the tectonic plates’ location on the earth to show all the earthquakes with a magnitude greater than 4.5
 
 
 
